@@ -11,7 +11,7 @@
 
 <br><br>
 
-<a href="https://git.io/typing-svg">
+<a>
 <img src="https://readme-typing-svg.demolab.com/?lines=Building+multi-agent+LLM+systems+that+ship;Real-time+voice+AI+%C2%B7+RAG+at+scale;Founder+%40+NeuroMentor+-+solo+to+7-person+team;Cut+meeting+fact-check+latency+from+40s+to+1s&font=Fira+Code&center=true&width=650&height=45&color=E50914&vCenter=true&size=20&pause=1800"/>
 </a>
 
